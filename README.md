@@ -32,7 +32,7 @@
 &nbsp;
 
 <h3 align="center">✨My game : Underminer✨</h3>
-![Underminer_HCapsule](https://github.com/2Irada/2Irada/assets/141272067/815d8429-69b1-4936-9d9d-becc76f8b254)
+<p align="center">![Underminer_HCapsule](https://github.com/2Irada/2Irada/assets/141272067/815d8429-69b1-4936-9d9d-becc76f8b254)</p>
 <p align="center"><a href="https://store.steampowered.com/app/2735870/Underminer/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"></p>
 
 &nbsp;
