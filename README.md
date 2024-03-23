@@ -11,10 +11,7 @@
 <p align="center">
  <img src ="https://img.shields.io/badge/unity-363636?style=for-the-badge&logo=Unity&logoColor=white"></a>&nbsp
  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/></a>&nbsp
- <img src ="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>&nbsp
- <img src ="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>&nbsp
  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
 </p>
 
@@ -35,6 +32,7 @@
 &nbsp;
 
 <h3 align="center">✨My game : Underminer✨</h3>
+![Underminer_HCapsule](https://github.com/2Irada/2Irada/assets/141272067/da0d9758-e2a0-4946-ad97-87b63fd1aa77)
 <p align="center"><a href="https://store.steampowered.com/app/2735870/Underminer/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=Steam&logoColor=white"></p>
 
 &nbsp;
